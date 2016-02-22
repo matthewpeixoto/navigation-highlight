@@ -1,8 +1,0 @@
-html {
-	box-sizing: border-box;
-  font-family: "Sigmar One", cursive;
-}
-
-*, *::before, *::after {
-	box-sizing: inherit;
-}
